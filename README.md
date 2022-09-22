@@ -9,5 +9,3 @@
 - 👯 I’m interested in collaborating on any projects or ideas that could challenge me
 - 🤔 I’m looking for help with any of my open source projects; see something that could be improved, create a pull request!
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MikePond-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mike-pond)
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=LightningMarshal&style=plastic-square&color=blue" alt=""></p>
