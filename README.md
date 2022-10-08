@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I’m currently working on sharpening my general coding and development skills
-- 🌱 I’m currently learning Python, C++, HTML, Java, Javascript, Godot
+- 🌱 I’m currently learning Python, C++, HTML, Java, Javascript, Rust, Godot
 - 👯 I’m interested in collaborating on any projects or ideas that could challenge me
 - 🤔 I’m looking for help with any of my open source projects; see something that could be improved, create a pull request!
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MikePond-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mike-pond)
